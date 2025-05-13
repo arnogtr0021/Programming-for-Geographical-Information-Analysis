@@ -15,7 +15,11 @@ The study area is limited in North Yorkshire of England and the study is conduct
 
 
 Data Resource
-	There are three different kinds of data involved in the study. Two kinds of statistics data: the crime data (01/2022-10/2024) and Priority Places for Food Index data (10/2022), and one spatial data: LSOA boundaries of North Yorkshire.
-	The crime data is collected from: https://data.police.uk/data. The datasets record the crime cases reported each month. The original crime data will be statistically analysed and converted to a format that shows the quantity of crimes happened in LSOA within a month.
-	The Priority Places for Food Index (PPFI) data is collected from: https://data.cdrc.ac.uk/dataset. The dataset records the multiple indices that reflects the living standards. As the dataset includes the data in the entire UK range, the data of North Yorkshire will be filtered for the regression analysis and visualization.
-	The LSOA boundaries data is collected from: https://www.data.gov.uk/dataset. The dataset will be utilized in the spatial visualization step. As the data is recorded as shapefile, it will be converted to GeoJSON format before visualization operation.
+
+There are three different kinds of data involved in the study. Two kinds of statistics data: the crime data (01/2022-10/2024) and Priority Places for Food Index data (10/2022), and one spatial data: LSOA boundaries of North Yorkshire.
+
+The crime data is collected from: https://data.police.uk/data. The datasets record the crime cases reported each month. The original crime data will be statistically analysed and converted to a format that shows the quantity of crimes happened in LSOA within a month.
+
+The Priority Places for Food Index (PPFI) data is collected from: https://data.cdrc.ac.uk/dataset. The dataset records the multiple indices that reflects the living standards. As the dataset includes the data in the entire UK range, the data of North Yorkshire will be filtered for the regression analysis and visualization.
+
+The LSOA boundaries data is collected from: https://www.data.gov.uk/dataset. The dataset will be utilized in the spatial visualization step. As the data is recorded as shapefile, it will be converted to GeoJSON format before visualization operation.
