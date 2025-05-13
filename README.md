@@ -26,4 +26,10 @@ The LSOA boundaries data is collected from: https://www.data.gov.uk/dataset. The
 
 # Code Function
 
-## Data Cleaning: Select the crime data and PPFI data in the range of North Yorkshire from the national width and remove the rows with null value in the datasets.
+## Data Cleaning
+Select the crime data and PPFI data in the range of North Yorkshire from the national width and remove the rows with null value in the datasets.
+## Exploratory Data Description
+An important step before data analysis, which can help the researchers to understand the characteristics of the data. A series of bar plots and boxplots are conducted to show the distribution status of the two datasets.
+## Linear Regression Analysis
+The analysis to study the relationship between crime activities and different factors in North Yorkshire. A correlation analysis is ahead of the regression analysis to find the index that have the highest correlation with crime activity for the following analysis. 
+
