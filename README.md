@@ -1,5 +1,5 @@
 # Background of the Study
-With the improvement of police databases and machine learning technology, it is much easier for the public service to analyze the crime status and predict its development.
+With the improvement of police databases and machine learning technology, it is much easier for the public service to analyze the crime status and predict its development. The public service could also use the improved data and methodology to find the real factors that effect the crime activities.
 # Aims of the Study
 
 This study is aimed at researching the intrinsic relationship between crime activity and living standards. The possibility of utilizing machine learning model in prediction of crime activity will also be explored. 
@@ -35,4 +35,7 @@ The analysis to study the relationship between crime activities and different fa
 The machine learning model is utilized in the study. With the support of time-series crime data. The model is trained to predict the crime density distribution in North Yorkshire at a LSOA level. The model is adjusted and tested multiple times to keep the predicted results at a high precision level.
 ## Data Visualization
 Visualize the result of the prediction model and demonstrate the spatial distribution status of two different kinds of data.
+# Suggestions
+The data should be stored in the same document address when running the codes uploaded, as the data utilized in the codes are loaded with relative address.
 
+The factors and index of the LSTM model could be adjusted slightly to explore the performance of the model.
