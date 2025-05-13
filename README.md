@@ -25,11 +25,14 @@ The Priority Places for Food Index (PPFI) data is collected from: https://data.c
 The LSOA boundaries data is collected from: https://www.data.gov.uk/dataset. The dataset will be utilized in the spatial visualization step. As the data is recorded as shapefile, it will be converted to GeoJSON format before visualization operation.
 
 # Code Function
-
 ## Data Cleaning
 Select the crime data and PPFI data in the range of North Yorkshire from the national width and remove the rows with null value in the datasets.
 ## Exploratory Data Description
 An important step before data analysis, which can help the researchers to understand the characteristics of the data. A series of bar plots and boxplots are conducted to show the distribution status of the two datasets.
 ## Linear Regression Analysis
-The analysis to study the relationship between crime activities and different factors in North Yorkshire. A correlation analysis is ahead of the regression analysis to find the index that have the highest correlation with crime activity for the following analysis. 
+The analysis to study the relationship between crime activities and different factors in North Yorkshire. A correlation analysis is ahead of the regression analysis to find the index that have the highest correlation with crime activity for the following analysis. The result demonstrates the relationship between the index and crime activity.
+## Long Short-term Model 
+The machine learning model is utilized in the study. With the support of time-series crime data. The model is trained to predict the crime density distribution in North Yorkshire at a LSOA level. The model is adjusted and tested multiple times to keep the predicted results at a high precision level.
+## Data Visualization
+Visualize the result of the prediction model and demonstrate the spatial distribution status of two different kinds of data.
 
