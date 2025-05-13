@@ -26,3 +26,4 @@ The LSOA boundaries data is collected from: https://www.data.gov.uk/dataset. The
 
 Code Function
 
+Data Cleaning: Select the crime data and PPFI data in the range of North Yorkshire from the national width.
