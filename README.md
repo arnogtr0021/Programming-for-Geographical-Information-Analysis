@@ -1,12 +1,12 @@
-Background of the Study
+# Background of the Study
 
-Aims of the Study
+# Aims of the Study
 
 This study is aimed at researching the intrinsic relationship between crime activity and living standards. The possibility of utilizing machine learning model in prediction of crime activity will also be explored. 
 
 The research is primarily helpful for the policy makers and police department. The policy makers could realize the main criteria of living standards that effect the crime activity and release appropriate policy on living standard of the residence to reduce the crime activity. The police department could take advantage of the prediction model to predict the potential crime activity in different areas in the future. It would help the police department to distribute their force and resource efficiently, and enforce their response to the emergency cases.
 
-Objectives
+# Objectives
 
 The data of crime activity and living standard will be utilized in the research to demonstrate their relationship. A correlation and regression analysis will be conducted to find the factor of the living standard that is most relevant to the crime activities.
 	
@@ -14,7 +14,7 @@ The data of crime activity and living standard will be utilized in the research 
  
 The study area is limited in North Yorkshire of England and the study is conducted at the Lower Super Output Area (LSOA) level.
 
-Data Resource
+# Data Resource
 
 There are three different kinds of data involved in the study. Two kinds of statistics data: the crime data (01/2022-10/2024) and Priority Places for Food Index data (10/2022), and one spatial data: LSOA boundaries of North Yorkshire.
 
@@ -24,6 +24,6 @@ The Priority Places for Food Index (PPFI) data is collected from: https://data.c
 
 The LSOA boundaries data is collected from: https://www.data.gov.uk/dataset. The dataset will be utilized in the spatial visualization step. As the data is recorded as shapefile, it will be converted to GeoJSON format before visualization operation.
 
-Code Function
+# Code Function
 
-Data Cleaning: Select the crime data and PPFI data in the range of North Yorkshire from the national width and remove the rows with null value in the datasets.
+## Data Cleaning: Select the crime data and PPFI data in the range of North Yorkshire from the national width and remove the rows with null value in the datasets.
