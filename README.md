@@ -1,5 +1,5 @@
 # Background of the Study
-
+With the improvement of police databases and machine learning technology, it is much easier for the public service to analyze the crime status and predict its development.
 # Aims of the Study
 
 This study is aimed at researching the intrinsic relationship between crime activity and living standards. The possibility of utilizing machine learning model in prediction of crime activity will also be explored. 
