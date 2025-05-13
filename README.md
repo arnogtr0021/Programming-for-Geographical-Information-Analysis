@@ -3,6 +3,7 @@ Background of the Study
 Aims of the Study
 
 This study is aimed at researching the intrinsic relationship between crime activity and living standards. The possibility of utilizing machine learning model in prediction of crime activity will also be explored. 
+
 The research is primarily helpful for the policy makers and police department. The policy makers could realize the main criteria of living standards that effect the crime activity and release appropriate policy on living standard of the residence to reduce the crime activity. The police department could take advantage of the prediction model to predict the potential crime activity in different areas in the future. It would help the police department to distribute their force and resource efficiently, and enforce their response to the emergency cases.
 
 Objectives
